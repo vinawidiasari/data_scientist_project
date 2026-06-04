@@ -8,10 +8,3 @@ Dashboard analisis harga emas menggunakan Streamlit.
 - Correlation Analysis
 - Gold Price Visualization
 
-## Instalasi
-
-Clone repository:
-
-```bash
-git clone https://github.com/vinawidiasari/gold-price-dashboard.git
-cd gold-price-dashboard
